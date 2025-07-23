@@ -1,0 +1,8 @@
+pandas
+sqlalchemy
+fastapi
+pydantic
+uvicorn
+python-dotenv
+google-generativeai
+openpyxl
